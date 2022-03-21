@@ -1,2 +1,2 @@
 a= 'hellow'
-print(hellow)
+print(a)
